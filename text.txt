@@ -1,0 +1,13 @@
+Explicaciones de conceptos:
+
+prototype: 
+El prototype es a lo que se recurre cuando la información que queremos obtener
+no es encontrada en ninguno de los objetos. Es información que puede contener un objeto
+si es que lo invocamos.
+
+
+Constructors (de Clases):
+El constructor sirve para no repetir código en los objetos, si repetimos código ocuparía más memoria
+y por ende la página puede ser mas lenta.
+En el constructor podemos declarar una función y si quisiéramos todos los objetos podrían hacer uso
+de la misma. Básicamente el constructor se utiliza para compartir funcionalidades.
